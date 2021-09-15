@@ -25,8 +25,7 @@
 			<distributor>Württembergische Landesbibliothek</distributor>
 			<availability status="free">
 				<licence target="http://creativecommons.org/licenses/by-nc/1.0/">
-					<p>Quest'opera è distribuita con licenza Creative Commons Attribuzione - Non Commerciale 1.0 Generica.</p>
-					<p>Vietato l'utilizzo a scopo commerciale.</p>
+					<p>Quest'opera è distribuita con licenza Creative Commons Attribuzione - 1.0 Generica.</p>
 				</licence>
 			</availability>
 		</publicationStmt>
@@ -120,7 +119,7 @@
 					</msItem>
 					<msItem xml:id="HistPrelJ2-parte1">
 						<title>Historia de preliis (J2)</title>
-						<author>Anonimo</author>
+						<author>Leo Archipresbyter</author>
 						<locus>ff. 223r - 239r</locus>
 					</msItem>
 					<msItem xml:id="HistAp">
@@ -135,7 +134,7 @@
 					</msItem>
 					<msItem xml:id="HistPrel-parte2">
 						<title>Historia de preliis (J2)</title>
-						<author>Anonimo</author>
+						<author>Leo Archipresbyter</author>
 						<locus>ff. 248r - 254v</locus>
 					</msItem>
 					<msItem xml:id="EcclesiaConstantiniana">
