@@ -3,9 +3,9 @@
 RomAL si pone l'obiettivo di rendere la complessa tradizione manoscritta del Romanzo di Alessandro consultabile in un unico luogo e visualizzabile nel suo insieme. 
 
 Sul sito è possibile navigare all'interno di questa tradizione attraverso tre metodi di browsing: 
-- per secolo di copiatura 
-- per redazione 
-- per provenienza dei manoscritti. 
+- per redazione (attivo);
+- per secolo di copiatura (non attivo);
+- per provenienza dei manoscritti (non attivo).
 
 Inoltre, un ulteriore metodo di browsing prevederebbe la consultazione dell'attuale collocazione di tutti i testimoni ad oggi conosciuti attraverso una mappa interattiva (Leaflet) [non sviluppato].
 
