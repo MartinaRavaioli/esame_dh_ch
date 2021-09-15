@@ -11,7 +11,7 @@ Inoltre, un ulteriore metodo di browsing prevederebbe la consultazione dell'attu
 
 
 All'interno del sito è attualmente consultabile la pagina item dedicata a un codice manoscritto (cod. hist. fol. 411), che è stato dotato di:
-- descrizione nel codice html sulla base dello standard Premodern Manuscript Application Profile - PMAP, ancora in corso di sviluppo;
+- descrittori html sulla base dello standard Premodern Manuscript Application Profile - PMAP, ancora in corso di sviluppo;
 - descrizione XML/DC (secondo lo standard Open Archives, OAI 2.0);
 - descrizione XML/TEI;
 - pagina autority persona (VIAF).
