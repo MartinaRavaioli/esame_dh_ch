@@ -1,4 +1,4 @@
-# Progetto per l'esame di DH&CH (RomAl)
+# Progetto per l'esame di DH&CH (RomAL)
 
 RomAL si pone l'obiettivo di rendere la complessa tradizione manoscritta del Romanzo di Alessandro consultabile in un unico luogo e visualizzabile nel suo insieme. 
 
